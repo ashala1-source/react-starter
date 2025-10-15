@@ -1,6 +1,6 @@
 {
   "name": "my-tavus-app",
-  "homepage": "https://ashala1-source.github.io/react-starter/",
+  "homepage": "https://ashala1-source.github.io/react-starter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
